@@ -1,0 +1,56 @@
+#header-nav
+{
+	position: relative;
+	background-color: grey;
+	border: 2px solid black;
+	margin-top: 0;
+
+}
+.botam
+{
+	 width: 25px;
+  height: 2.5px;
+  background-color: black;
+  margin: 6px 0;
+}
+#nav-list
+{
+	text-align: center;
+}
+#nav-item
+{
+	clear: left;
+}
+.line
+{
+	clear: left;
+}
+.navbar-brand h1
+{
+	color: black;
+}
+.navbar-brand a:hover, .navbar-brand a:focus
+{
+	text-decoration: none;
+}
+#nav-list a
+{
+	color: black;
+}
+.mainheading
+{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.subheading
+{
+	text-align: center;
+	padding-top: 5px;
+}
+#chicken, #beef, #sushi
+{
+	background-color: grey;
+	width: 100%
+	margin:30px;
+}
